@@ -13,7 +13,7 @@
  ## Follow me!! 
   <br>
   <br>
-  <a href="mailto:walderley.neto@bandtec.com.br" target="_blank" alt="Outlook">
+  <a href="mailto:walderley.neto@techne.com.br" target="_blank" alt="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/walderley-neto-a26390206/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
